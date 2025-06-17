@@ -7,11 +7,11 @@ I'm a software developer, passionate about programming and technology. I love bu
 
 ## Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs" />
 
 ## Learning
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
 ## Socials
 [![Discord Presence](https://lanyard.cnrad.dev/api/856645085889167411)](https://discord.com/users/856645085889167411)
