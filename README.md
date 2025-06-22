@@ -7,7 +7,7 @@ I'm a software developer, passionate about programming and technology. I love bu
 
 ## Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,express" />
 
 ## Learning
 
