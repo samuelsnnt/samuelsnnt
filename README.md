@@ -11,7 +11,7 @@ I'm a software developer, passionate about programming and technology. I love bu
 
 ## Learning
 
-<img src="https://skillicons.dev/icons?i=react,next" />
+<img src="https://skillicons.dev/icons?i=firebase,nest,typescript" />
 
 ## Socials
 [![Discord Presence](https://lanyard.cnrad.dev/api/856645085889167411)](https://discord.com/users/856645085889167411)
