@@ -2,9 +2,6 @@
 
 I'm a software developer, passionate about programming and technology. I love building projects, and I'm always looking for new ways to solve real-world problems with code. Here, you'll find some of my latest projects where I explore various technologies and languages, always with the goal of learning and sharing knowledge.
 
-## Github Stats
-[![samuelsnnt Stats](https://github-readme-stats.vercel.app/api?username=samuelsnnt)](https://github.com/samuelsnnt/github-readme-stats)
-
 ## Languages and Tools
 
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,express" />
