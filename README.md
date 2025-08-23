@@ -15,4 +15,4 @@ I'm a software developer, passionate about programming and technology. I love bu
 
 [![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:sionff4@gmail.com)
 [![DISCORD](https://skillicons.dev/icons?i=discord)](https://discord.com/users/856645085889167411)
-[![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/doossrs)
+[![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/samuel_sntn9)
