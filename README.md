@@ -8,11 +8,11 @@ I'm a software developer, passionate about programming and technology. I love bu
 
 ## Learning
 
-<img src="https://skillicons.dev/icons?i=firebase,nest,typescript" />
+<img src="https://skillicons.dev/icons?i=python" />
 
 ## Socials
 [![Discord Presence](https://lanyard.cnrad.dev/api/856645085889167411)](https://discord.com/users/856645085889167411)
 
 [![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:sionff4@gmail.com)
 [![DISCORD](https://skillicons.dev/icons?i=discord)](https://discord.com/users/856645085889167411)
-[![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/samuel_sntn9)
+[![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/wks4mu)
