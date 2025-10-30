@@ -8,7 +8,7 @@ I'm a software developer, passionate about programming and technology. I love bu
 
 ## Learning
 
-<img src="https://skillicons.dev/icons?i=django" />
+<img src="https://skillicons.dev/icons?i=django,flask" />
 
 ## Socials
 [![Discord Presence](https://lanyard.cnrad.dev/api/856645085889167411)](https://discord.com/users/856645085889167411)
